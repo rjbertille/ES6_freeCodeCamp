@@ -37,13 +37,13 @@ Update the code so it only uses the let keyword.
 
 - quote should be "Oliver says Meow!"
 
-let catName;
-let quote;
-function catTalk() {
-  "use strict";
+<strong>let catName;</strong><br>
+<strong>let quote;</strong><br>
+<strong>function catTalk() {</strong><br>
+  <strong>"use strict";</strong><br>
 
-  catName = "Oliver";
-  quote = catName + " says Meow!";
+  <strong>catName = "Oliver";</strong><br>
+  <strong>quote = catName + " says Meow!";</strong><br>
 
-}
-catTalk();
+<strong>}</strong><br>
+<strong>catTalk();</strong>
